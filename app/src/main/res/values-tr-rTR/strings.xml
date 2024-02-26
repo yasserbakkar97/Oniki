@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Oniki</string>
+    <string name="welcome">Hoşgeldiniz</string>
+    <string name="next_generation_event_experience">Yeni Nesil Etkinlik Deneyimi</string>
+    <string name="sign_in">Giriş Yap</string>
+    <string name="register">Kayıt Ol</string>
+    <string name="please_sign_in_down_below" translatable="false">Lütfen aşağıdan oturum açın</string>
+    <string name="email">E-posta</string>
+    <string name="password">Şifre</string>
+    <string name="forget_password"><u>Şifremi Unuttum</u></string>
+    <string name="linkedin"><b><B>İn  </B></b>LinkedIn ile giriş yap</string>
+    <string name="don_t_have_an_account">Hesabınız yok mu?</string>
+    <string name="please_register_down_below">Lütfen aşağıdan kayıt olun</string>
+    <string name="first_name">İsim</string>
+    <string name="last_name">Soyisim</string>
+    <string name="already_have_an_account">Zaten hesabınız var mı?</string>
+    <string name="personal_n_info">Kişisel\nBilgileri</string>
+    <string name="company_n_info">Şirket\nBilgileri</string>
+    <string name="company_name">Firma Adı</string>
+    <string name="title">Görevi</string>
+    <string name="sector">Sektör seçin</string>
+    <string name="www_company_com">İnternet sitesi</string>
+    <string name="which_events_would_you_like_to_sponsor">Hangi etkinliklere sponsor olmak istersiniz?</string>
+    <string name="password_again">Şifre(Tekrar)</string>
+    <string name="next">İleri</string>
+    <string name="previous">Önceki</string>
+    <string name="contacted">E-posta adresim veya telefon numaram aracılığıyla \nkısa mesaj ve arama yoluyla benimle iletişime \ngeçilmesini kabul ediyorum.</string>
+    <string name="conditions">Koşullar ve Gizlilik Politikasını kabul ediyorum.</string>
+</resources>

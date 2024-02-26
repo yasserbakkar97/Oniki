@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Oniki</string>
+    <string name="forget_password"><u>Forget Password</u></string>
+    <string name="conditions">I agree to <u>Terms of conditions </u>and <u>Privacy Policy.</u></string>
+    <string name="contacted"> I agree to be contacted by my email addreess or \n through my phone number via text and call.<u></u></string>
+    <string name="linkedin"> <b><B>İn  </B></b>Sign In via LinkedIn</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="welcome">Welcome</string>
+    <string name="next_generation_event_experience">Next Generation Event Experience</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="please_sign_in_down_below">Please sign in down below</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="don_t_have_an_account">Don\'t have an account?</string>
+    <string name="please_register_down_below">Please register down below</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="already_have_an_account">Already have an account?</string>
+    <string name="personal_n_info">Personal\nInfo</string>
+    <string name="company_n_info">Company\nInfo</string>
+    <string name="company_name">Company Name</string>
+    <string name="title">Title</string>
+    <string name="sector">Sector</string>
+    <string name="www_company_com">www.company.com</string>
+    <string name="which_events_would_you_like_to_sponsor">Which events would you like to sponsor?</string>
+    <string name="password_again">Password(Again)</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="activation">If you do not see your activation code sent to your e-mail address in your inbox,\n please check promotions, spam or other folders.</string>
+    <string name="resend"><u>Resend Activation Code</u></string>
+
+
+</resources>
